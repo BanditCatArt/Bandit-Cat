@@ -51,7 +51,7 @@ p{
 
     /*BACKGROUND - SKY ONLY*/
 
-    background-image: url(background-notree-fade.png);
+    background-image: url(background-notree-fade-cropped.png);
     background-size: contain;
     
     background-position: center;
@@ -62,6 +62,8 @@ p{
     align-items: center;*/
     min-width: 400px;
     min-height: 1755px;
+    background-repeat: no-repeat;
+
     
 }
 
