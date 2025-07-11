@@ -55,6 +55,7 @@ p{
     background-size: contain;
     
     background-position: center;
+    background-position: top;
     border-radius: 0px;
     /*display: flex;
     flex-direction: column;
