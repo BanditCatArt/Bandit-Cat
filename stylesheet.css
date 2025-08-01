@@ -119,10 +119,9 @@ p{
     text-align: center;
 }
 
-@font-face {
-        font-family: "Pangolin-Regular";
-        src: url(Pangolin-Regular.ttf);
-      }
+
+
+
 
 .main img {
     max-width: 100%;
@@ -344,3 +343,13 @@ header{
     pointer-events: none;
  }
 
+ @font-face {
+    font-family: "ChunkyFelt";
+    src: url(Chunky\ Felt.otf);
+  }
+
+.AboutSection {
+
+    font-family: "ChunkyFelt";
+
+}
