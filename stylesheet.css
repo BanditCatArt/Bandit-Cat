@@ -52,7 +52,7 @@ p{
     /*BACKGROUND - SKY ONLY*/
 
     background-image: url(background-notree-fade-cropped.png);
-    background-size: contain;
+    background-size: cover;
     
     background-position: center;
     background-position: top;
@@ -62,7 +62,7 @@ p{
     justify-content: center;
     align-items: center;*/
     min-width: 400px;
-    min-height: 1755px;
+    min-height: 100px;
     background-repeat: no-repeat;
 
     
@@ -459,4 +459,17 @@ width: 75%;
     max-height: 150px;
     max-width: 150px;
     margin: auto;
+}
+
+footer {
+    margin-top: 20px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(64, 63, 66, 0);
+    color: rgb(255, 255, 255);
+    height: 100px;
+    
 }
