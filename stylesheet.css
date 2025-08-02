@@ -52,7 +52,7 @@ p{
     /*BACKGROUND - SKY ONLY*/
 
     background-image: url(background-notree-fade-cropped.png);
-    background-size: cover;
+    background-size: 100%;
     
     background-position: center;
     background-position: top;
