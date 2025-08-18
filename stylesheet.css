@@ -360,6 +360,25 @@ header{
 
 }
 
+.AboutSectiongreen {
+
+    font-family: "ChunkyFelt";
+    font: "ChunkyFelt";
+    color: rgb(0, 184, 0);
+    text-align: center;
+    font-size: 25px;
+    line-height: 35px;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.opentext{
+
+    
+    max-height: 30px;
+}
+
 .AboutSectionSmall {
 
     font-family: "ChunkyFelt";
