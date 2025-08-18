@@ -381,9 +381,9 @@ header{
 
 .AboutSectioncentered{
 
-    margin: auto;
+    
 }
-@media (max-width: 1150px) 
+@media (max-width: 960px) 
  {
     .AboutSectioncentered{
         font-size: 15px;
