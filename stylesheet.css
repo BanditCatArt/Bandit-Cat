@@ -379,6 +379,17 @@ header{
     max-height: 30px;
 }
 
+.AboutSectioncentered{
+
+    margin: auto;
+}
+@media (max-width: 1150px) 
+ {
+    .AboutSectioncentered{
+        font-size: 15px;
+    }
+ }
+
 .AboutSectionSmall {
 
     font-family: "ChunkyFelt";
