@@ -300,6 +300,54 @@ header{
     
 }
 
+.homebuttonDEMO {
+    width: 100%;
+    min-height: 100%;
+    border: 0px;
+    border-color: rgba(255, 255, 255, 0);
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+    background-image: url(demoreel.png);
+    background-size:cover;
+    max-height: 350px;
+    max-width: 444px;
+    margin: auto;
+}
+
+.homebuttonDEMO:hover{
+    background-image: url(demoreel-hover.png);
+    
+}
+
+.homebuttonMUSIC {
+    width: 100%;
+    min-height: 100%;
+    border: 0px;
+    border-color: rgba(255, 255, 255, 0);
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+    background-image: url(musicvidsbutton.png);
+    background-size:cover;
+    max-height: 350px;
+    max-width: 444px;
+    margin: auto;
+}
+
+.homebuttonMUSIC:hover{
+    background-image: url(musicvidsbutton-hover.png);
+    
+}
+
 
 
 
