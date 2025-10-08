@@ -42,7 +42,7 @@ p{
     border: 15px solid rgb(255, 255, 255);
     border-top: 0px;
     border-bottom: 0px;
-    background-color: rgb(156, 196, 198);
+    background-color: rgb(152, 228, 250);
    
    /*BACKGROUND - FULL*/
    
@@ -51,7 +51,7 @@ p{
 
     /*BACKGROUND - SKY ONLY*/
 
-    background-image: url(background-notree-fade-cropped.png);
+    background-image: url(background-2.png);
     background-size: 100%;
     
     background-position: center;
@@ -207,7 +207,7 @@ header{
 .homebuttonANIMATION {
     width: 100%;
     min-height: 100%;
-    border: 3px;
+    border: 0px;
     border-color: rgba(255, 255, 255, 0);
     border-style: solid;
     background-color: rgba(255, 255, 255, 0);
@@ -216,7 +216,7 @@ header{
     padding: 0px;
     justify-content: center;
     text-align: center;
-    background-image: url(ANIMATIONv2.png);
+    background-image: url(ANIMATIONv2w\ cloud.png);
     background-size:cover;
     max-height: 350px;
     max-width: 444px;
@@ -224,14 +224,14 @@ header{
 }
 
 .homebuttonANIMATION:hover{
-    background-image: url(ANIMATIONv2\ -hover.png);
+    background-image: url(ANIMATIONv2\ -hoverw\ cloud.png);
     
 }
 
 .homebuttonART {
     width: 100%;
     min-height: 100%;
-    border: 3px;
+    border: 0px;
     border-color: rgba(255, 255, 255, 0);
     border-style: solid;
     background-color: rgba(255, 255, 255, 0);
@@ -255,7 +255,7 @@ header{
 .homebuttonABOUT {
     width: 100%;
     min-height: 100%;
-    border: 3px;
+    border: 0px;
     border-color: rgba(255, 255, 255, 0);
     border-style: solid;
     background-color: rgba(255, 255, 255, 0);
@@ -264,7 +264,7 @@ header{
     padding: 0px;
     justify-content: center;
     text-align: center;
-    background-image: url(about\ v2.png);
+    background-image: url(about\ v2w\ cloud.png);
     background-size:cover;
     max-height: 350px;
     max-width: 444px;
@@ -272,14 +272,14 @@ header{
 }
 
 .homebuttonABOUT:hover{
-    background-image: url(about\ v2\ -\ hover.png);
+    background-image: url(about\ v2\ -\ hoverw\ cloud.png);
     
 }
 
 .homebuttonTOTA{
     width: 100%;
     min-height: 100%;
-    border: 3px;
+    border: 0px;
     border-color: rgba(255, 255, 255, 0);
     border-style: solid;
     background-color: rgba(255, 255, 255, 0);
@@ -288,7 +288,7 @@ header{
     padding: 0px;
     justify-content: center;
     text-align: center;
-    background-image: url(TOTA.png);
+    background-image: url(TOTAw\ cloud.png);
     background-size:cover;
     max-height: 500px;
     max-width: 550px;
@@ -296,7 +296,7 @@ header{
 }
 
 .homebuttonTOTA:hover{
-    background-image: url(TOTA-hover.png);
+    background-image: url(TOTA-hoverw\ cloud.png);
     
 }
 
