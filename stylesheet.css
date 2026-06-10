@@ -657,3 +657,51 @@ footer {
     max-width: 600px;
     margin: auto;
 }
+
+.toohard {
+    width: 100%;
+    min-height: 100%;
+    border: 0px;
+    border-color: rgba(255, 255, 255, 0);
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+    background-image: url(toohardbutton.png);
+    background-size:cover;
+    max-height: 400px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.toohard:hover{
+    background-image: url(toohardbutton-hover.png);
+    
+}
+
+.dream {
+    width: 100%;
+    min-height: 100%;
+    border: 0px;
+    border-color: rgba(255, 255, 255, 0);
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+    background-image: url(dreamcomicbutton.png);
+    background-size:cover;
+    max-height: 400px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.dream:hover{
+    background-image: url(dreamcomicbutton-hover.png);
+    
+}
