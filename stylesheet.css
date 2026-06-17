@@ -705,3 +705,27 @@ footer {
     background-image: url(dreamcomicbutton-hover.jpg);
     
 }
+
+.pencil {
+    width: 100%;
+    min-height: 100%;
+    border: 0px;
+    border-color: rgba(255, 255, 255, 0);
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+    background-image: url(pencilcomicbutton.jpg);
+    background-size:cover;
+    max-height: 400px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.pencil:hover{
+    background-image: url(pencilcomicbutton-hover.jpg);
+    
+}
