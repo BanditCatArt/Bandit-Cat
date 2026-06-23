@@ -729,3 +729,27 @@ footer {
     background-image: url(pencilcomicbutton-hover.jpg);
     
 }
+
+.AI {
+    width: 100%;
+    min-height: 100%;
+    border: 0px;
+    border-color: rgba(255, 255, 255, 0);
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+    background-image: url(aicomicbutton.png);
+    background-size:cover;
+    max-height: 400px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.AI:hover{
+    background-image: url(aicomicbutton-hover.png);
+    
+}
